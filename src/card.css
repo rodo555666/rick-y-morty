@@ -1,0 +1,62 @@
+.contenedor {
+ display: flex;
+
+   font-weight: 600;
+   background: linear-gradient( darkslategray,black);
+   
+   padding-bottom: 5%;
+   border-image: linear-gradient(#1b4208, #7ee510) 30;
+   border-width: 1px;
+   border-style: solid;
+   margin-bottom: 2%;
+   
+  
+   
+   
+}
+
+h3 {
+    color: #74d3df; 
+}
+
+.lista {
+     color: rgb(29, 145, 85);
+     list-style: none;
+     text-align: left;
+}
+
+.status {
+    color: rgb(28, 28, 28);
+    padding: 2%;
+    background-color: #7ee510;
+    border-radius: 10%;
+}
+
+
+.Alive {
+    color: rgb(28, 28, 28);
+    padding: 2%;
+    background-color: #7ee510;
+    border-radius: 10%;
+}
+.Dead {
+    color: rgb(0, 0, 0);
+    padding: 2%;
+    background-color: #e51010;
+    border-radius: 10%;
+}
+
+.unknown {
+    color: rgb(0, 0, 0);
+    padding: 2%;
+    background-color: #e5cc10;
+    border-radius: 10%;
+}
+
+
+
+
+.lista span {
+    display: block;
+    color: #74d3df;
+}

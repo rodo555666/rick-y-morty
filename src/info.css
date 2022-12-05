@@ -1,0 +1,22 @@
+.cabesera { 
+    background-color: darkslategray;
+    color: rgb(110, 151, 162);
+    padding: 1%;
+    margin: 1%;
+
+}
+
+
+h2 {
+    color: rgb(203, 222, 223);
+    font-size: 2rem;
+}
+.ul {
+
+        list-style: none;
+        font-weight: 600;
+}
+
+.span {
+    color: rgb(165, 193, 194);
+}
